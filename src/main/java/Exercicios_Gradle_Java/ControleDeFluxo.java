@@ -7,7 +7,7 @@ package Exercicios_Gradle_Java;
  */
 public class ControleDeFluxo {
     public static void main(String[] args) {
-        double salario = 1500f;
+        double salario = 1500d;
         double imposto;
         
         
