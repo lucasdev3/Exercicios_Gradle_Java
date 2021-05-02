@@ -7,18 +7,29 @@ package Exercicios_Gradle_Java;
  */
 public class ControleDeFluxo {
     public static void main(String[] args) {
-        int idade = 16;
-     
+        double salario = 1500f;
+        double imposto;
         
-        if (idade < 15){
-            System.out.println("Categoria Infantil");
-        }
-        else if (idade >= 15 && idade <= 18){
-            System.out.println("Categoria Juvenil");
-        }
         
+        if (salario < 1000){
+            imposto = (salario * 5 / 100);
+            System.out.println("5% de imposto");
+            System.out.println("Imposto: R$"+ imposto);
+        }
+        else if (salario >= 1000 && salario < 2000){
+            imposto = (salario * 10 / 100);
+            System.out.println("10% de imposto");
+            System.out.println("Salario com reajuste: R$"+ imposto);
+        }
+        else if (salario >= 2000 && salario < 4000){
+            imposto = (salario * 15 / 100);
+            System.out.println("15% de imposto");
+            System.out.println("Salario com reajuste: R$"+ imposto);
+        }
         else{
-            System.out.println("Categoria Adulto");
+            imposto = (salario * 20 / 100);
+            System.out.println("20% de imposto");
+            System.out.println("Salario com reajuste: R$"+ imposto);
         }
 }
 
