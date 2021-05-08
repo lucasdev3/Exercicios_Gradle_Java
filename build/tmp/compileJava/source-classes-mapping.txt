@@ -1,0 +1,22 @@
+Exercicios_Gradle_Java/ExercicioLacosDeRepeticao2.java
+ Exercicios_Gradle_Java.ExercicioLacosDeRepeticao2
+Exercicios_Gradle_Java/ExercicioSwitchCase.java
+ Exercicios_Gradle_Java.ExercicioSwitchCase
+Exercicios_Gradle_Java/LacosDeRepeticao.java
+ Exercicios_Gradle_Java.LacosDeRepeticao
+Exercicios_Gradle_Java/OperadoresDeAtribuicao.java
+ Exercicios_Gradle_Java.OperadoresDeAtribuicao
+Exercicios_Gradle_Java/Arrays6.java
+ Exercicios_Gradle_Java.Arrays6
+Exercicios_Gradle_Java/ControleDeFluxo.java
+ Exercicios_Gradle_Java.ControleDeFluxo
+Exercicios_Gradle_Java/Arrays.java
+ Exercicios_Gradle_Java.Arrays
+Exercicios_Gradle_Java/Main.java
+ Exercicios_Gradle_Java.Main
+Exercicios_Gradle_Java/SwitchCase.java
+ Exercicios_Gradle_Java.SwitchCase
+Exercicios_Gradle_Java/ExercicioLacosDeRepeticao.java
+ Exercicios_Gradle_Java.ExercicioLacosDeRepeticao
+Exercicios_Gradle_Java/ArrayBiDimensional.java
+ Exercicios_Gradle_Java.ArrayBiDimensional
